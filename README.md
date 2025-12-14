@@ -1,0 +1,1 @@
+# Avro-typing-test-for-PKG
